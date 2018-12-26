@@ -1,0 +1,22 @@
+
+
+
+
+
+<html>
+	<head>
+		<title>ChinaNet</title>
+		<meta http-equiv="Content-Type" Content="text/html; Charset=gb2312">
+		<meta http-equiv="Content-Language" Content="zh-CN"> 
+	</head>
+	<script type="text/javascript">
+		if (window != top) top.location =window.location;
+		window.moveTo(0,0);   
+		window.resizeTo(screen.width,screen.height-30);
+	</script>
+  
+<frameset rows="0,*" frameborder="no" cols="*" border="0" framespacing="0" >
+  <frame name="hiddenFrame" scrolling="NO" frameborder="0" noresize src="blank.html" >
+  <frame name="mainFrame" src="/style/portalv4/index.jsp?paramStr=UGGOtheTLCeCQd8D4IUL5McDYmb6YDZji%2Fpj7ysu3rpOih6aCgQcLkQWYybXt3rKNj6RLd6Jvzfl%0AG9jz3ZE%2BmIr2NhhKvSj5muvfb9AygseYncLNQkB1gO7a3H4NQm9xn3tn%2FV9z0Hk%3D" noresize scrolling="auto">
+</frameset>
+</html>
